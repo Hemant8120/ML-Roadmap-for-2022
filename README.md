@@ -9,7 +9,7 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 5. ### Pushing it with Projects
 
 
-## 1. Testing the waters (Est. time 6-8 Weeks)
+## 1. Testing the Waters (Est. time 6-8 Weeks)
 
 The goal of this level is to get you familiar with the ML universe. You will learn a bit of everything.
 
