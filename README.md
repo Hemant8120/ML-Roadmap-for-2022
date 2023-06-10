@@ -79,7 +79,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         15. Building an End to End Machine Learning Project - https://www.youtube.com/watch?v=dr7z7a_8lQw
 
 
-## 2. Gaining Conceptual depth (Est. time 6-8 Weeks)
+## 2. Gaining Conceptual Depth (Est. time 6-8 Weeks)
 
 The goal of this level is to learn the core machine learning concepts and algorithms
 
@@ -229,7 +229,7 @@ The goal of this level is to get you introduced to the practical side of machine
          3. NYC Cab Dataset Project - https://vaex.io/blog/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your
  
  
-## 4. Diving into different domains (Est. time 6-8 Weeks)
+## 4. Diving into Different Domains (Est. time 6-8 Weeks)
 
 This is the level where you would dive into different domains of Machine Learning. Mastering these will make you a true Data Scientist.
 
